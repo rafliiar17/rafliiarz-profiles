@@ -32,7 +32,7 @@
         <div class="card mb-4">
           <div class="card-body text-center">
             <img src="img/profile.JPG" alt="avatar"
-              class="rounded-7 img-fluid" style="width: 150px;">
+              class="rounded-9 img-fluid" style="width: 150px;">
             <h5 class="my-3">Rafli Arraafi Albaasith</h5>
             <p class="text-muted mb-1">Technical Support</p>
             <p class="text-muted mb-4">Bandung, West Java, Indonesia</p>
@@ -140,14 +140,14 @@
                   <div class="progress-bar" role="progressbar" style="width: 89%" aria-valuenow="89"
                     aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-                <p class="mt-4 mb-1" style="font-size: .77rem;">Web Server</p>
+                <p class="mt-4 mb-1" style="font-size: .77rem;">Web Server - Apache</p>
                 <div class="progress rounded" style="height: 5px;">
                   <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70"
                     aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
-                <p class="mt-4 mb-1" style="font-size: .77rem;">Backend API</p>
+                <p class="mt-4 mb-1" style="font-size: .77rem;">Ms. Office - EXCEL</p>
                 <div class="progress rounded mb-2" style="height: 5px;">
-                  <div class="progress-bar" role="progressbar" style="width: 66%" aria-valuenow="66"
+                  <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75"
                     aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
               </div>
