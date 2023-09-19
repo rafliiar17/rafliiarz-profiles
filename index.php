@@ -37,29 +37,30 @@
             <p class="text-muted mb-1">Technical Support</p>
             <p class="text-muted mb-4">Bandung, West Java, Indonesia</p>
             <div class="d-flex justify-content-center mb-2">
-            <a href="http://instagram.com/rafliiarz/"><button type="button" class="btn btn-primary">Follow</button></a>
-              <button type="button" class="btn btn-outline-primary ms-1"><a href="https://wa.me/6281802757484"> Message</button></a>
+            <a href="http://instagram.com/rafliiarz/"><button type="button" class="btn btn-primary btn-outline">Follow</button></a>
+            <a href="https://wa.me/6281802757484"><button type="button" class="btn btn-outline-primary ms-1 me-1">Message</button></a> 
+            <a href="https://www.notion.so/rafliiarz/Rafli-Arraafi-Albaasith-84fdd8d7f73741d282814a5a0d07b7e9"><button type="button" class="btn btn-outline btn-secondary">My CV</button></a>
             </div>
           </div>
         </div>
         <div class="card mb-4 mb-lg-0">
-          <div class="card-body p-0">
+          <div class="card-body p-10">
             <ul class="list-group list-group-flush rounded-3">
               <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                 <i class="fas fa-globe fa-lg text-warning"></i>
-                <p class="mb-0">rafliiarz.tech</p>
+                <p class="mb-0"><a href="http://rafliiarz.tech">rafliiarz.tech</a></p>
               </li>
               <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                 <i class="fab fa-github fa-lg" style="color: #333333;"></i>
-                <p class="mb-0">github.com/rafliiar17</p>
+                <p class="mb-0"><a href="https://github.com/rafliiar17">rafliiar17</a></p>
               </li>
               <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                 <i class="fab fa-twitter fa-lg" style="color: #55acee;"></i>
-                <p class="mb-0">@rafliiarz_</p>
+                <p class="mb-0"><a href="http://twitter.com/rafliiarz_">rafliiarz_</a></p>
               </li>
               <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                 <i class="fab fa-instagram fa-lg" style="color: #ac2bac;"></i>
-                <p class="mb-0">instagram.com/rafliiarz</p>
+                <p class="mb-0"><a href="http://instagram.com/rafliiarz">rafliiarz</a></p>
               </li>
               <!-- <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                 <i class="fab fa-facebook-f fa-lg" style="color: #3b5998;"></i>
@@ -86,7 +87,7 @@
                 <p class="mb-0">Email</p>
               </div>
               <div class="col-sm-9">
-                <p class="text-muted mb-0">raflii.arraafi17@gmail.com</p>
+                <p class="text-muted mb-0"><a href="mailto:rafli.arraafi.a@gmail.com">rafli.arraafi.a@gmail.com</a></p>
               </div>
             </div>
             <hr>
