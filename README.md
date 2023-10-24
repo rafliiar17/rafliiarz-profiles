@@ -1,16 +1,3 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/mdb.min.css">
-  <link
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
-  rel="stylesheet"/>
-  <link rel="icon" type="image/x-icon" href="img/ava3.webp">
-</head>
-<body>
-  
-
 <section style="background-color: #eee;">
   <div class="container py-5">
     <div class="row">
@@ -59,10 +46,6 @@
               <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                 <i class="fab fa-instagram fa-lg" style="color: #ac2bac;"></i>
                 <p class="mb-0"><a href="http://instagram.com/rafliiarz">rafliiarz</a></p>
-              </li>
-              <!-- <li class="list-group-item d-flex justify-content-between align-items-center p-3">
-                <i class="fab fa-facebook-f fa-lg" style="color: #3b5998;"></i>
-                <p class="mb-0">mdbootstrap</p> -->
               </li>
             </ul>
           </div>
