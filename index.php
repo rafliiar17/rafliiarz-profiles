@@ -96,7 +96,7 @@
                 <p class="mb-0">Whatsapp</p>
               </div>
               <div class="col-sm-9">
-                <p class="text-muted mb-0">+6281802757484</p>
+                <p class="text-muted mb-0">+6295339555312</p>
               </div>
             </div>
             <hr>
@@ -105,7 +105,7 @@
                 <p class="mb-0">Mobile</p>
               </div>
               <div class="col-sm-9">
-                <p class="text-muted mb-0">+6281802757484</p>
+                <p class="text-muted mb-0">+6295339555312</p>
               </div>
             </div> -->
             <div class="row">
